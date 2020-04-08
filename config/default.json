@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://apiuser:apipassword2020@gpsitdev-syuoo.mongodb.net/test?retryWrites=true&w=majority"
+}
