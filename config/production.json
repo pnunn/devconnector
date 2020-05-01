@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://apiuser:apipassword2020@gpsitdev-syuoo.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "01674f7e0526ea62bc17",
+  "githubSecret": "441af9ad6f282226b2f1833b5a28b0e8ec52bae8"
+}
